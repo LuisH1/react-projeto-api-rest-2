@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  margin-top: 2rem;
+
+}
+
+
+input {
+  width: 200px;
+  height: 25px;
+  color: darkblue;
+}
+
+button {
+  height: 30px;
+  border: none;
+  background-color: #d86c14;
+  color: white;
+  cursor: pointer;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
